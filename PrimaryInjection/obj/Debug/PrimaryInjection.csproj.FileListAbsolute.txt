@@ -1,0 +1,10 @@
+C:\Users\Bogdan\source\repos\PrimaryInjection\PrimaryInjection\obj\Debug\PrimaryInjection.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\PrimaryInjection\PrimaryInjection\obj\Debug\PrimaryInjection.Form1.resources
+C:\Users\Bogdan\source\repos\PrimaryInjection\PrimaryInjection\obj\Debug\PrimaryInjection.Properties.Resources.resources
+C:\Users\Bogdan\source\repos\PrimaryInjection\PrimaryInjection\obj\Debug\PrimaryInjection.csproj.GenerateResource.cache
+C:\Users\Bogdan\source\repos\PrimaryInjection\PrimaryInjection\obj\Debug\PrimaryInjection.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\PrimaryInjection\PrimaryInjection\bin\Debug\DLL Hook.exe.config
+C:\Users\Bogdan\source\repos\PrimaryInjection\PrimaryInjection\bin\Debug\DLL Hook.exe
+C:\Users\Bogdan\source\repos\PrimaryInjection\PrimaryInjection\bin\Debug\DLL Hook.pdb
+C:\Users\Bogdan\source\repos\PrimaryInjection\PrimaryInjection\obj\Debug\DLL Hook.exe
+C:\Users\Bogdan\source\repos\PrimaryInjection\PrimaryInjection\obj\Debug\DLL Hook.pdb

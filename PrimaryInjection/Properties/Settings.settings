@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PrimaryInjection.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="backgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">32, 32, 32</Value>
+    </Setting>
+    <Setting Name="textColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="borderColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="hoverColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">55, 55, 55</Value>
+    </Setting>
+    <Setting Name="staticColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">45, 45, 45</Value>
+    </Setting>
+    <Setting Name="selectedProcess" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="selectedDLL" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="width" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">514</Value>
+    </Setting>
+    <Setting Name="height" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">265</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
